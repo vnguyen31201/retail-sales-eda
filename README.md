@@ -48,7 +48,8 @@ From the `AdventureWorksDW2022` database:
 ## Files Included
 
 - `Retail_Sales_EDA.pbix` – Full Power BI dashboard file
-- `Retail_Sales_EDA.pdf` – Report PDF
+- `Retail_Sales_EDA.pdf` – PDF of report
+- `README.md` – Project Documentation
 
 ## Future Improvements
 
