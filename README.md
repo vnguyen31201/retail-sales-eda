@@ -64,14 +64,14 @@ From the `AdventureWorksDW2022` database:
 
 ---
 
-## 🧠 Future Improvements
+## Future Improvements
 
 - Incorporate customer lifetime value (CLV) segmentation
 - Publish report to Power BI Service for public interactivity
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Vincent Nguyen**  
 Aspiring Data Analyst | SQL • Power BI • Data Storytelling 
